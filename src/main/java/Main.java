@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("3d commit to master");
 		develop.createDevelopBranch();
 		System.out.println("4th commit to master");
+		develop.createDevelopBranch();
 	}
 }
